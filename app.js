@@ -7,6 +7,8 @@ const bodyParser = require('body-parser'); // get input fields parameters
 const passport = require('passport');
 const cookieParser = require('cookie-parser');
 const session = require('express-session');
+//baze was here
+//dijana was here
 
 const app = express(); // constructor for the web framework express
 const port = process.env.PORT || 3000; // package.json contains env.port set to 4000
